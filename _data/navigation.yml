@@ -1,9 +1,7 @@
 # Site navigation links
 
+
 - title: Portfolio
-  url: /Portfolio/
-  
-- title: post
   url: /post/
 
 - title: Home
