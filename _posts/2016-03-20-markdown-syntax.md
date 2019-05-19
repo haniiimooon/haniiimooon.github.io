@@ -1,16 +1,46 @@
 ---
 layout: post
-title:  "Markdown Syntax"
-date:   2016-03-15
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
-tag:
-- markdown 
-- syntax
-- sample
-- test
-- jekyll
+title:  "Photography 2019"
+date:   2019-01-15
+excerpt: "A Digital Portfolio of My Photography and Drawings"
+tags: [Hanimoon, H A N I M O O N, Portfolio]
 comments: true
 ---
+
+<figure class="half">
+	<a href="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/IMG_2032.JPG"><img src="http://placehold.it/600x300.jpg"></a>
+	<a href="http://placehold.it/1200x600.jpeg"><img src="http://placehold.it/600x300.jpg"></a>
+	<figcaption>Two images.</figcaption>
+</figure>
+
+
+![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/IMG_2032.JPG) 
+
+![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/IMG_2216 2019-05-19 03_16_29.JPG) 
+
+
+![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/IMG_2216 2019-05-19 03_16_49.JPG) 
+
+![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/IMG_2222 2019-05-19 03_16_29.JPG) 
+
+![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/IMG_2233 2019-05-19 03_16_55.JPG) 
+
+![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/IMG_2859 2019-05-19 03_16_30.JPG) 
+
+![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/IMG_2859 2019-05-19 03_17_32.JPG) 
+
+![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/IMG_2866 2019-05-19 03_16_19.JPG) 
+
+![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/IMG_2866 2019-05-19 03_16_30.JPG) 
+
+![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/IMG_2868 2019-05-19 03_16_20.JPG) 
+
+![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/IMG_2868 2019-05-19 03_16_19.JPG) 
+
+![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/IMG_2866 2019-05-19 03_16_19.JPG) 
+
+
+
 
 ## HTML Elements
 
