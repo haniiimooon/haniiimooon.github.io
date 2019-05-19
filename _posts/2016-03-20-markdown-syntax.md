@@ -22,14 +22,15 @@ comments: true
 
 
 
-{% highlight html %}
+
+
 <figure class="third">
 	<img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/IMG_0925 2019-05-19 03_16_33.JPG">
 	<img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/IMG_0925 2.JPG">
 	<img src="/https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/IMG_0925.JPG">
 	<figcaption>Caption describing these three images.</figcaption>
 </figure>
-{% endhighlight %}
+
 
 ![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/IMG_2032.JPG) 
 
