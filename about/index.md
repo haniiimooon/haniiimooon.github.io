@@ -9,7 +9,7 @@ comments: false
 <center><a href="https://haniiimooon.github.io/"><b>H A N I M O O N</b></a> is a personal website where I share what I like to draw or love to take photos of.</center>
 
 ## About
-I知 not a photographer,\n I知 not a writer,\n But,\n I love to take photos,\n I love to write tales
+I知 not a photographer, I知 not a writer, But, I love to take photos, I love to write tales
 
 ## Features
 * Minimal, you can focus on your content
