@@ -21,7 +21,9 @@ comments: false
 * Simple navigation menu
 * MathJax support
 
-## Preview
+## About
+
+I am not a writer
 
 
 See a [live version of Hanimoon](https://haniiimooon.github.io/) hosted on GitHub.
