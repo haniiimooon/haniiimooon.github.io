@@ -3,11 +3,18 @@
 - title: Portfolio
   url: /Portfolio/
   
-- title: Instagram
-  url: (https://www.instagram.com/haniii_mooon/?hl=en)
+- title: post
+  url: /post/
+
+- title: Home
+  url: https://haniiimooon.github.io
   
-- title: Portfolio
-  url: /Portfolio/
+- title: Blog
+  url: /blog/
+
+- title: Projects
+  url: /projects/
+
+- title: About
+  url: /about/  
   
-  - title: Portfolio
-  url: /Portfolio/
