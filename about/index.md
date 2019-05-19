@@ -8,6 +8,7 @@ comments: false
     
 <center><a href="https://haniiimooon.github.io/"><b>H A N I M O O N</b></a> is a personal website where I share what I like to draw or love to take photos of.</center>
 
+I am not a writer.
 
 ## Features
 * Minimal, you can focus on your content
@@ -22,7 +23,6 @@ comments: false
 * MathJax support
 
 ## About
-
 I am not a writer
 
 
