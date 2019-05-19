@@ -7,7 +7,7 @@ comments: false
 ---
 
 
- <center><a href="https://haniiimooon.github.io/"><b>Welcome to H A N I M O O N</b></a></center>
+ <center>Welcome to H A N I M O O N</center>
 
 <center><a href="https://haniiimooon.github.io/"><b>H A N I M O O N</b></a> is a personal website where I share what I like to draw or love to take photos of.</center>
 
@@ -25,7 +25,7 @@ I love to write tales.
 
 
 ## About
-I am not a writer
+
 
 
 See a [live version of Hanimoon](https://haniiimooon.github.io/) hosted on GitHub.
