@@ -10,10 +10,7 @@ comments: false
 
 ## Features
 I’m not a photographer 
-I’m not a writer 
-But
-I love to take photos 
-I love to write tales
+
 ## Preview
 
 {% capture images %}
