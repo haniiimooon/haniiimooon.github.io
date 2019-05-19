@@ -1,6 +1,6 @@
 ---
-layout: portfolio
-title: All Portfolio
+layout: Portfolio
+title: Hanimoon Portfolio
 excerpt: "Hanimoon Portfolio"
 comments: false
 ---
