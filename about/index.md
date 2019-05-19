@@ -17,17 +17,6 @@ But, \
 I love to take photos ,\
 I love to write tales.
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
 
 ## About
 I am not a writer
