@@ -9,7 +9,7 @@ comments: true
 
 <figure class="half">
 	<a href="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/IMG_2032.JPG"><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/IMG_2032.JPG"></a>
-	<a href="http://placehold.it/1200x600.jpeg"><img src="http://placehold.it/600x300.jpg"></a>
+	<a href="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/IMG_1894.JPG"><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/IMG_1894.JPG"></a>
 	<figcaption>Two images.</figcaption>
 </figure>
 
