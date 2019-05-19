@@ -2,13 +2,11 @@
 
 
 - title: Portfolio
-  url: /post/
+  url: /portfolio/
 
 - title: Home
   url: https://haniiimooon.github.io
-  
-- title: Blog
-  url: /blog/
+
 
 - title: Projects
   url: /projects/
