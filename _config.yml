@@ -1,6 +1,6 @@
 # Site
 title:              H A N I M O O N
-bio:                'I am not a photographer'
+bio:                'Hanimoon Personal Website'
 description:        "Hanimoon is a place where I share what I love to draw, or take photo of "
 reading_time:       true
 words_per_minute:   200
@@ -61,7 +61,7 @@ instagram:          haniii_mooon
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-CV: 
+
 # Gems
 gems:
   - jekyll-mentions
