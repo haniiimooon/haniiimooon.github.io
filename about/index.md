@@ -9,7 +9,16 @@ comments: false
 <center><a href="https://haniiimooon.github.io/"><b>H A N I M O O N</b></a> is a personal website where I share what I like to draw or love to take photos of.</center>
 
 ## Features
-I’m not a photographer 
+* Minimal, you can focus on your content
+* Responsive
+* Disqus integration
+* Syntax highlighting
+* Optional post image
+* Social icons
+* Page for sharing projects
+* Optional background image
+* Simple navigation menu
+* MathJax support
 
 ## Preview
 
