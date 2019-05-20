@@ -1,6 +1,6 @@
 ---
 layout: post-list
 title: HaniMoon Digital Portfolio 
-excerpt: "Hanimoon Digital Portfolio"
+excerpt: "HaniMoon Digital Portfolio"
 comments: false
 ---
