@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Arch Portfolio"
+title:  "Arch"
 date:   2019-01-15
-excerpt: "A Digital Portfolio of My Photography"
+excerpt: "Architecture is visual art and the bulings speak for themselves"
 tags: [Hanimoon, H A N I M O O N, Portfolio]
 comments: true
 ---
