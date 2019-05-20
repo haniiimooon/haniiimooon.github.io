@@ -7,14 +7,16 @@ tags: [Hanimoon, H A N I M O O N, Portfolio]
 comments: true
 ---
 
-![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/22.JPG) 
-
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/22.JPG"></a>
+	<figcaption><a>The Heydar Aliyev Center, Baku, Azerbaijan</a>.</figcaption>
+</figure>
 
 <figure class="half">
-	<a href="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/1 - Copy.JPG"><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/1 - Copy.JPG"></a>
-	<a href="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/1.JPG"><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/1.JPG"></a>
-	<figcaption>Contrast</figcaption>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/1 - Copy.JPG"></a>	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/1.JPG"></a>
+	<figcaption><a>Contrast</a>.</figcaption>
 </figure>
+
 
 
 
