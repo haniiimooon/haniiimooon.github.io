@@ -33,17 +33,32 @@ comments: true
 
 <figure>
 	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/4.JPG"></a>
-	<figcaption><a>Beardshear Hall, Iowa State University, Ames, IA</a>.</figcaption>
+	<figcaption><a>The Iowa State University Campanile, Ames, IA</a>.</figcaption>
 </figure>
-![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/4.JPG) 
 
-![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/5.JPG) 
 
-![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/6.JPG) 
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/5.JPG"></a>
+	<figcaption><a>Memorial Union, Iowa State University, Ames, IA</a>.</figcaption>
+</figure>
 
-![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/7.JPG) 
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/6.JPG"></a>
+	<figcaption><a>Make You Free, Park's Library, Iowa State University, Ames, IA/a>.</figcaption>
+</figure>
 
-![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/8.JPG) 
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/7.JPG"></a>
+	<figcaption><a> Iowa State University Campus, Ames, IA/a>.</figcaption>
+</figure>
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/8.JPG"></a>
+	<figcaption><a>College of Design, Iowa State University , Ames, IA/a>.</figcaption>
+</figure>
+
+
 
 ![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/9.JPG) 
 
