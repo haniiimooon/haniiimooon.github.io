@@ -50,17 +50,17 @@ comments: true
 
 <figure>
 	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/7.JPG"></a>
-	<figcaption><a> Iowa State University Campus, Ames, IA/a>.</figcaption>
+	<figcaption><a> Iowa State University Campus, Ames, IA</a>.</figcaption>
 </figure>
 
 <figure>
 	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/8.JPG"></a>
-	<figcaption><a>College of Design, Iowa State University , Ames, IA/a>.</figcaption>
+	<figcaption><a>College of Design, Iowa State University , Ames, IA</a>.</figcaption>
 </figure>
 
 <figure>
 	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/11.JPG"></a>
-	<figcaption><a>College of Design, Iowa State University , Ames, IA/a>.</figcaption>
+	<figcaption><a>College of Design, Iowa State University , Ames, IA</a>.</figcaption>
 </figure>
 
 
