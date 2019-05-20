@@ -8,7 +8,7 @@ comments: true
 ---
 
 <figure>
-	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/nature/1.JPG"></a>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/nuture/1.JPG"></a>
 	<figcaption><a>#haniiimoon</a>.</figcaption>
 </figure>
 
