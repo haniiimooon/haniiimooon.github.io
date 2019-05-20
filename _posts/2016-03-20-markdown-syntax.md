@@ -55,13 +55,108 @@ comments: true
 
 <figure>
 	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/8.JPG"></a>
+	<figcaption><a>Parks Library, Iowa State University , Ames, IA</a>.</figcaption>
+</figure>
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/9.JPG"></a>
+	<figcaption><a> Iowa State University Campus, Ames, IA</a>.</figcaption>
+</figure>
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/10.JPG"></a>
 	<figcaption><a>College of Design, Iowa State University , Ames, IA</a>.</figcaption>
 </figure>
+
 
 <figure>
 	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/11.JPG"></a>
 	<figcaption><a>College of Design, Iowa State University , Ames, IA</a>.</figcaption>
 </figure>
+
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/12.JPG"></a>
+	<figcaption><a>Stete gym, Iowa State University , Ames, IA</a>.</figcaption>
+</figure>
+
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/13.JPG"></a>
+	<figcaption><a>State gym, Iowa State University , Ames, IA</a>.</figcaption>
+</figure>
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/14.JPG"></a>
+	<figcaption><a>State gym, Iowa State University , Ames, IA</a>.</figcaption>
+</figure>
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/15.JPG"></a>
+	<figcaption><a>Baku, Azerbaijan</a>.</figcaption>
+</figure>
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/16.JPG"></a>
+	<figcaption><a>Baku, Azerbaijan</a>.</figcaption>
+</figure>
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/18.JPG"></a>
+	<figcaption><a>Baku, Azerbaijan</a>.</figcaption>
+</figure>
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/19.JPG"></a>
+	<figcaption><a>Baku, Azerbaijan</a>.</figcaption>
+</figure>
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/20.JPG"></a>
+	<figcaption><a>Baku, Azerbaijan</a>.</figcaption>
+</figure>
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/21.JPG"></a>
+	<figcaption><a>Baku, Azerbaijan</a>.</figcaption>
+</figure>
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/23.JPG"></a>
+	<figcaption><a>Baku, Azerbaijan</a>.</figcaption>
+</figure>
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/24.JPG"></a>
+	<figcaption><a>Baku, Azerbaijan</a>.</figcaption>
+</figure>
+
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/25.JPG"></a>
+	<figcaption><a>Baku, Azerbaijan</a>.</figcaption>
+</figure>
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/26.JPG"></a>
+	<figcaption><a>Baku, Azerbaijan</a>.</figcaption>
+</figure>
+
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/27.JPG"></a>
+	<figcaption><a>Tehran Theater, Tehran, Iran</a>.</figcaption>
+</figure>
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/28.JPG"></a>
+	<figcaption><a>Ames, IA</a>.</figcaption>
+</figure>
+
+
+
+
+
 
 
 
