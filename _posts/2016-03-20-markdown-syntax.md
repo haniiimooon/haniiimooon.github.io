@@ -44,13 +44,13 @@ comments: true
 
 <figure>
 	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/6.JPG"></a>
-	<figcaption><a>Iowa State University, Ames, IA</a>.</figcaption>
+	<figcaption><a>Atanasoff Hall, Iowa State University, Ames, IA</a>.</figcaption>
 </figure>
 
 
 <figure>
 	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/7.JPG"></a>
-	<figcaption><a> Iowa State University Campus, Ames, IA</a>.</figcaption>
+	<figcaption><a>Memorial Union, Iowa State University , Ames, IA</a>.</figcaption>
 </figure>
 
 <figure>
