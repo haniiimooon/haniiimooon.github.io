@@ -9,7 +9,7 @@ comments: true
 
 <figure>
 	<a href="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/1.JPG"><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/1.JPG"></a>
-	<figcaption><a " title="Hanimoon Architecture"></a>.</figcaption>
+	<figcaption><a href="" title="Morning F">Morning Fog</a>.</figcaption>
 </figure>
 
 
@@ -47,7 +47,6 @@ comments: true
 
 ![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/16.JPG) 
 
-![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/17.JPG) 
 
 ![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/18.JPG) 
 ![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/19.JPG) 
