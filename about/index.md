@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About H A N I M O O N 
-tags: [about, hanimoon, H A N I M O O N]
+tags: [about, hanimoon, H A N I M O O N, Instagram]
 date: 2016-03-21
 comments: false
 ---
