@@ -1,160 +1,200 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
-date:   2016-04-06
-excerpt: "Minimal, one column Jekyll theme for your blog."
-project: true
-tag:
-- jekyll 
-- moon
-- blog
-- about
-- theme
+title: "Photography of Nature"
+date: 2018-05-22
+excerpt: "My Photography Portfolio of Nature"
+tags: [Hanimoon, H A N I M O O N, Portfolio, Nature]
 comments: true
 ---
 
-![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
-    
-<center><b>Moon</b> is a minimal, one column jekyll theme.</center>
-     
- I'm not a developer or designer. And I don't add footer to show who did this theme. If you like this theme or using it, please give a **star** for motivation, It makes me happy.
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/nature/1.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
 
-<iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
-      
-## Installation
-* Fork the [Moon repo](https://github.com/TaylanTatli/Moon/fork)
-* Edit `_config.yml` file.
-* Remove sample posts from `_posts` folder and add yours.
-* Edit `index.md` file in `about` folder.
-* Change repo name to `YourUserName.github.io`    
-     
-That's all.
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/nature/2.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
 
-## Preview
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/nature/3.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
 
-{% capture images %}
-	https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-	https://cloud.githubusercontent.com/assets/754514/14509717/61ad05ae-01d6-11e6-85ae-5a817dd8763b.png
-	https://cloud.githubusercontent.com/assets/754514/14509714/61a89708-01d6-11e6-8fcd-74b002a060df.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=3 %}
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/nature/4.jpg"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
 
----
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/nature/5.jpg"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
 
-{% capture images %}
-	https://cloud.githubusercontent.com/assets/754514/14509718/61b09a20-01d6-11e6-8da1-4202ae4d83cd.png
-	https://cloud.githubusercontent.com/assets/754514/14509715/61aa9d00-01d6-11e6-81a6-c6837edf2e84.png
-{% endcapture %}
-{% include gallery images=images caption="Moon Theme on Small Screen Size" cols=2 %}      
-      
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.      
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/nature/6.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
 
-## Site Setup
-A quick checklist of the files you’ll want to edit to get up and running.    
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/nature/7.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
 
-### Site Wide Configuration
-`_config.yml` is your friend. Open it up and personalize it. Most variables are self explanatory but here's an explanation of each if needed:
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/nature/8.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
 
-#### title
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/nature/9.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
 
-The title of your site... shocker!
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/nature/10.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
 
-Example `title: My Awesome Site`
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/nature/11.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
 
-#### bio
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/nature/12.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
 
-The description to show on your homepage.
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/nature/13.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
 
-#### description
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/nature/14.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
 
-The description to use for meta tags and navigation menu.
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/nature/15.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
 
-#### url
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/road/IMG_0766.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
 
-Used to generate absolute urls in `sitemap.xml`, `feed.xml`, and for generating canonical URLs in `<head>`. When developing locally either comment this out or use something like `http://localhost:4000` so all assets load properly. *Don't include a trailing `/`*.
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/road/IMG_0766.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/road/IMG_1315.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/road/IMG_IMG_2216 2.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/road/IMG_2222 2.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
 
-Examples:
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/road/IMG_8320.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
 
-{% highlight yaml %}
-url: http://taylantatli.me/Moon
-url: http://localhost:4000
-url: //cooldude.github.io
-url:
-{% endhighlight %}
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/road/IMG_9200.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
 
-#### reading_time
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/road/IMG_9225.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
 
-Set true to show reading time for posts. And set `words_per_minute`, default is 200.
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/road/IMG_9225.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
 
-#### logo
-Your site's logo. It will show on homepage and navigation menu. Also used for twitter meta tags.
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/window/1.jpg"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
 
-#### background
-Image for background. If you don't set it, color will be used as a background.
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/window/2.jpg"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
 
-#### Google Analytics and Webmaster Tools
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/window/4.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
 
-Google Analytics UA and Webmaster Tool verification tags can be entered in `_config.yml`. For more information on obtaining these meta tags check [Google Webmaster Tools](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=35179) and [Bing Webmaster Tools](https://ssl.bing.com/webmaster/configure/verify/ownership) support.
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/window/7.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
 
-#### MathJax
-It's enabled. But if you don't want to use it. Set it false in  `_config.yml`.
 
-#### Disqus Comments
-Set your disqus shortname in `_config.yml` to use comments.
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/B&W/2.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
 
----
 
-### Navigation Links
 
-To set what links appear in the top navigation edit `_data/navigation.yml`. Use the following format to set the URL and title for as many links as you'd like. *External links will open in a new window.*
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/B&W/3.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
 
-{% highlight yaml %}
-- title: Home
-  url: /
 
-- title: Blog
-  url: /blog/
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/B&W/4.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
 
-- title: Projects
-  url: /projects/
 
-- title: About
-  url: /about/
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/B&W/9.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
 
-- title: Moon
-  url: http://taylantatli.me/Moon
-{% endhighlight %}
 
----
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/people/6.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
 
-## Layouts and Content
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/people/5.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/people/3.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/people/1.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
 
-Moon Theme use [Jekyll Compress](https://github.com/penibelst/jekyll-compress-html) to compress html output. But it can cause errors if you use "linenos" (line numbers). I suggest don't use line numbers for codes, because it won't look good with this theme, also i didn't give a proper style for them. If you insist to use line numbers, just remove `layout: compress` string from layouts. It will disable compressing.
 
-### Feature Image
 
-You can set feature image per post. Just add `feature: some link` to your post's front matter.
 
-```
-feature: /assets/img/some-image.png
-or
-feaure: http://example.com/some-image.png
-```    
- This also will be used for twitter card:
 
-![Moon Twitter Card](https://cloud.githubusercontent.com/assets/754514/14509719/61c5751c-01d6-11e6-8c29-ce8ccad149bf.png)
 
-### Comments
-To show disqus comments for your post add `comments: true` to your post's front matter.
 
----
 
-## Questions?
 
-Found a bug or aren't quite sure how something works? By all means [file a GitHub Issue](https://github.com/TaylanTatli/Moon/issues/new). And if you make something cool with this theme feel free to let me know.
 
----
 
-## License
-
-This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer.
