@@ -7,6 +7,15 @@ tags: [Hanimoon, H A N I M O O N, Portfolio]
 comments: true
 ---
 
+<figure class="half">
+	<a href="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/1 - Copy.JPG"><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/1 - Copy.JPG"></a>
+	<a href="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/1.JPG"><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/1.JPG"></a>
+	<figcaption>Two images.</figcaption>
+</figure>
+
+
+
+
 <figure>
 	<a href="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/1.JPG"><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/1.JPG"></a>
 	<figcaption><a href="" title="Morning F">Morning Fog</a>.</figcaption>
@@ -80,15 +89,6 @@ comments: true
 </figure>
 
 
-
-
-
-<figure class="third">
-	<img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/IMG_0925 2019-05-19 03_16_33.JPG">
-	<img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/IMG_0925.JPG">
-	<img src="/https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/IMG_0925.JPG">
-	<figcaption>Caption describing these three images.</figcaption>
-</figure>
 
 
 
