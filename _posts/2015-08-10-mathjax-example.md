@@ -1,52 +1,177 @@
 ---
 layout: post
-title:  "MathJax Example"
+title:  "HaniMoon Landscape Photography"
 date:   2015-08-10
-excerpt: "MathJax Example for Moon Jekyll Theme."
+excerpt: "Landscape Photography"
 tag:
-- markdown 
-- mathjax
-- example
-- test
-- jekyll
-comments: true
+- Photography 
+- Hanimoon
+- Portfolio
+- Landscape
+- H A N I M O O N
+comments: false
 ---
 
-[MathJax](http://www.mathjax.org/) is a simple way of including Tex/LaTex/MathML based mathematics in HTML webpages. To get up and running you need to include the MathJax script in the header of your github pages page, and then write some maths. For LaTex, there are two delimiters you need to know about, one for block or displayed mathematics `\[ ... \]`, and the other for inline mathematics `\( ... \)`.
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/reflex/1.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
 
-## Usage
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/reflex/2.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
 
-To enable MathJax support be sure Kramdown is your Markdown flavor of choice and MathJax is set to true in your `_config.yml` file.
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/reflex/3.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
 
-~~~
-markdown: kramdown
-mathjax: true
-~~~
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/reflex/4.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
 
-~~~
-Here is an example MathJax inline rendering \\( 1/x^{2} \\), and here is a block rendering: 
-\\[ \frac{1}{n^{2}} \\]
-~~~
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/reflex/5.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
 
-Here is an example MathJax inline rendering \\( 1/x^{2} \\), and here is a block rendering: 
-\\[ \frac{1}{n^{2}} \\]
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/reflex/6.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
 
-The only thing to look out for is the escaping of the backslash when using markdown, so the delimiters become `\\[ ... \\]` and `\\( ... \\)` for inline and block maths respectively.
-    
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/reflex/7.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
 
-$$
-\begin{align*}
-  & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
-  = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
-  & (x_1, \ldots, x_n) \left( \begin{array}{ccc}
-      \phi(e_1, e_1) & \cdots & \phi(e_1, e_n) \\
-      \vdots & \ddots & \vdots \\
-      \phi(e_n, e_1) & \cdots & \phi(e_n, e_n)
-    \end{array} \right)
-  \left( \begin{array}{c}
-      y_1 \\
-      \vdots \\
-      y_n
-    \end{array} \right)
-\end{align*}
-$$
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/reflex/8.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/1.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/2.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/3.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/4.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/5.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/6.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/7.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/8.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/9.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/10.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/11.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/12.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/13.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/14.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/15.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/16.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/17.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/18.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/19.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/20.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/21.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/22.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/23.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/24.JPG"></a>
+	<figcaption><a>#haniiimoon</a>.</figcaption>
+</figure>
+
+
+
+
