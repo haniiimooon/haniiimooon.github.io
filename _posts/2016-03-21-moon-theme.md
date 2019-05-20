@@ -87,10 +87,7 @@ comments: true
 	<figcaption><a>#haniiimoon</a>.</figcaption>
 </figure>
 
-<figure>
-	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/road/IMG_0766.JPG"></a>
-	<figcaption><a>#haniiimoon</a>.</figcaption>
-</figure>
+
 <figure>
 	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/road/IMG_1315.JPG"></a>
 	<figcaption><a>#haniiimoon</a>.</figcaption>
@@ -111,11 +108,6 @@ comments: true
 
 <figure>
 	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/road/IMG_9200.JPG"></a>
-	<figcaption><a>#haniiimoon</a>.</figcaption>
-</figure>
-
-<figure>
-	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/road/IMG_9225.JPG"></a>
 	<figcaption><a>#haniiimoon</a>.</figcaption>
 </figure>
 
