@@ -38,7 +38,7 @@ comments: false
 </figure>
 
 <figure>
-	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/reflex/6.JPG"></a>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/reflex/6.jpg"></a>
 	<figcaption><a>#haniiimoon</a>.</figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ comments: false
 </figure>
 
 <figure>
-	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/1.JPG"></a>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/1.jpg"></a>
 	<figcaption><a>#haniiimoon</a>.</figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ comments: false
 </figure>
 
 <figure>
-	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/5.JPG"></a>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/5.jpg"></a>
 	<figcaption><a>#haniiimoon</a>.</figcaption>
 </figure>
 
@@ -83,22 +83,22 @@ comments: false
 </figure>
 
 <figure>
-	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/7.JPG"></a>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/7.jpg"></a>
 	<figcaption><a>#haniiimoon</a>.</figcaption>
 </figure>
 
 <figure>
-	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/8.JPG"></a>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/8.jpg"></a>
 	<figcaption><a>#haniiimoon</a>.</figcaption>
 </figure>
 
 <figure>
-	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/9.JPG"></a>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/9.jpg"></a>
 	<figcaption><a>#haniiimoon</a>.</figcaption>
 </figure>
 
 <figure>
-	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/10.JPG"></a>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/10.jpg"></a>
 	<figcaption><a>#haniiimoon</a>.</figcaption>
 </figure>
 
@@ -127,10 +127,6 @@ comments: false
 	<figcaption><a>#haniiimoon</a>.</figcaption>
 </figure>
 
-<figure>
-	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/16.JPG"></a>
-	<figcaption><a>#haniiimoon</a>.</figcaption>
-</figure>
 
 <figure>
 	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/17.JPG"></a>
@@ -138,7 +134,7 @@ comments: false
 </figure>
 
 <figure>
-	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/18.JPG"></a>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/sky+/18.jpg"></a>
 	<figcaption><a>#haniiimoon</a>.</figcaption>
 </figure>
 
