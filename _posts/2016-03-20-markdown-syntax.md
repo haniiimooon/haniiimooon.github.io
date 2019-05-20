@@ -10,15 +10,15 @@ comments: true
 <figure class="half">
 	<a href="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/1 - Copy.JPG"><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/1 - Copy.JPG"></a>
 	<a href="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/1.JPG"><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/1.JPG"></a>
-	<figcaption>Two images.</figcaption>
+	<figcaption>Contrast</figcaption>
 </figure>
 
 
 
 
 <figure>
-	<a href="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/1.JPG"><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/1.JPG"></a>
-	<figcaption><a href="" title="Morning F">Morning Fog</a>.</figcaption>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/1.JPG"></a>
+	<figcaption><a>Morning Fog</a>.</figcaption>
 </figure>
 
 
