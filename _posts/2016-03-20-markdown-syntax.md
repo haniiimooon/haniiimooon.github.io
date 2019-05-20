@@ -58,55 +58,11 @@ comments: true
 	<figcaption><a>College of Design, Iowa State University , Ames, IA/a>.</figcaption>
 </figure>
 
-
-
-![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/9.JPG) 
-
-
-![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/10.JPG) 
-
-![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/11.JPG) 
-
-![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/12.JPG) 
-
-![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/13.JPG) 
-
-![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/14.JPG) 
-
-![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/15.JPG) 
-
-![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/16.JPG) 
-
-
-![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/18.JPG) 
-![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/19.JPG) 
-
-![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/20.JPG) 
-![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/21.JPG)
-![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/23.JPG) 
-![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/24.JPG) 
-![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/25.JPG) 
-![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/26.JPG) 
-![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/27.JPG) 
-![HaniMoon ](https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/28.JPG) 
-
-
-
-
-
-
-<figure class="half">
-	<a href="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/IMG_2032.JPG"><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/IMG_2032.JPG"></a>
-	<a href="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/IMG_1894.JPG"><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/IMG_1894.JPG"></a>
-	<figcaption>Two images.</figcaption>
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/11.JPG"></a>
+	<figcaption><a>College of Design, Iowa State University , Ames, IA/a>.</figcaption>
 </figure>
 
-
-<figure class="half">
-	<a href="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/IMG_1845.JPG"><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/IMG_1845.JPG"></a>
-	<a href="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/IMG_2030.JPG"><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/IMG_2030.JPG"></a>
-	<figcaption>Two images.</figcaption>
-</figure>
 
 
 
