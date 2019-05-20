@@ -246,17 +246,17 @@ comments: true
 </figure>
 
 <figure>
-	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/ancient/20.JPG"></a>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/ancient/20.jpg"></a>
 	<figcaption><a>Wind Catcher,  Yazd, Iran</a>.</figcaption>
 </figure>
 
 <figure>
-	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/ancient/21.JPG"></a>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/ancient/21.jpg"></a>
 	<figcaption><a>Art Cafe,  Yazd, Iran</a>.</figcaption>
 </figure>
 
 <figure>
-	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/ancient/Tehran-2017.JPG"></a>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/ancient/Tehran-2017.jpg"></a>
 	<figcaption><a>Art Cafe,  Yazd, Iran</a>.</figcaption>
 </figure>
 
