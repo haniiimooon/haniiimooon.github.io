@@ -39,7 +39,7 @@ comments: true
 
 <figure>
 	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/5.JPG"></a>
-	<figcaption><a>Memorial Union, Iowa State University, Ames, IA</a>.</figcaption>
+	<figcaption><a>Atanasoff Hall, Iowa State University, Ames, IA</a>.</figcaption>
 </figure>
 
 <figure>
