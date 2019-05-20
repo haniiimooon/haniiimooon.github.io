@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Photography 2019"
+title:  "Arch Portfolio"
 date:   2019-01-15
 excerpt: "A Digital Portfolio of My Photography and Drawings"
 tags: [Hanimoon, H A N I M O O N, Portfolio]
@@ -36,16 +36,6 @@ comments: true
 	<figcaption><a>The Iowa State University Campanile, Ames, IA</a>.</figcaption>
 </figure>
 
-
-<figure>
-	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/5.JPG"></a>
-	<figcaption><a>Atanasoff Hall, Iowa State University, Ames, IA</a>.</figcaption>
-</figure>
-
-<figure>
-	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/6.JPG"></a>
-	<figcaption><a>Atanasoff Hall, Iowa State University, Ames, IA</a>.</figcaption>
-</figure>
 
 
 <figure>
@@ -154,7 +144,15 @@ comments: true
 </figure>
 
 
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/5.JPG"></a>
+	<figcaption><a>Iowa State University, Ames, IA</a>.</figcaption>
+</figure>
 
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/6.JPG"></a>
+	<figcaption><a>Iowa State University, Ames, IA</a>.</figcaption>
+</figure>
 
 
 
