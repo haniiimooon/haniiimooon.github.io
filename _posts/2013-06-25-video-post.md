@@ -80,10 +80,6 @@ comments: false
 	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/draw/2.JPG"></a>
 	<figcaption><a>#haniiimoon#drawing#portfolio</a>.</figcaption>
 </figure>
-<figure>
-	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/draw/3.JPG"></a>
-	<figcaption><a>#haniiimoon#drawing#portfolio</a>.</figcaption>
-</figure>
 
 
 <figure>
