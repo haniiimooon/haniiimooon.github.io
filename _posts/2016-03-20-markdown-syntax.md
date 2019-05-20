@@ -2,7 +2,7 @@
 layout: post
 title:  "Arch Portfolio"
 date:   2019-01-15
-excerpt: "A Digital Portfolio of My Photography and Drawings"
+excerpt: "A Digital Portfolio of My Photography"
 tags: [Hanimoon, H A N I M O O N, Portfolio]
 comments: true
 ---
@@ -143,16 +143,6 @@ comments: true
 	<figcaption><a>Ames, IA</a>.</figcaption>
 </figure>
 
-
-<figure>
-	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/5.JPG"></a>
-	<figcaption><a>Iowa State University, Ames, IA</a>.</figcaption>
-</figure>
-
-<figure>
-	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/6.JPG"></a>
-	<figcaption><a>Iowa State University, Ames, IA</a>.</figcaption>
-</figure>
 
 
 
