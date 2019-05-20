@@ -28,7 +28,7 @@ comments: false
 </figure>
 
 <figure>
-	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/reflex/4.JPG"></a>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/reflex/4.jpg"></a>
 	<figcaption><a>#haniiimoon</a>.</figcaption>
 </figure>
 
