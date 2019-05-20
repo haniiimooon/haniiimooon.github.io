@@ -44,7 +44,7 @@ comments: true
 
 <figure>
 	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/6.JPG"></a>
-	<figcaption><a>Memorial Union, Iowa State University, Ames, IA</a>.</figcaption>
+	<figcaption><a>Iowa State University, Ames, IA</a>.</figcaption>
 </figure>
 
 
