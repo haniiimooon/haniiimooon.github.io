@@ -13,12 +13,12 @@ comments: true
 </figure>
 
 <figure>
-	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/nature/2.JPG"></a>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/nature/2.png"></a>
 	<figcaption><a>#haniiimoon</a>.</figcaption>
 </figure>
 
 <figure>
-	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/nature/3.JPG"></a>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/nature/3.png"></a>
 	<figcaption><a>#haniiimoon</a>.</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ comments: true
 	<figcaption><a>#haniiimoon</a>.</figcaption>
 </figure>
 <figure>
-	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/road/IMG_IMG_2216 2.JPG"></a>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/road/IMG_2216 2.JPG"></a>
 	<figcaption><a>#haniiimoon</a>.</figcaption>
 </figure>
 <figure>
