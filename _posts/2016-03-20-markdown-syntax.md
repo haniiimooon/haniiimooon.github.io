@@ -7,6 +7,18 @@ tags: [Hanimoon, H A N I M O O N, Portfolio]
 comments: true
 ---
 <figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/ames.jpg"></a>
+	<figcaption><a> Ames, IA</a>.</figcaption>
+</figure>
+
+
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/ames2.jpg"></a>
+	<figcaption><a> Ames, IA</a>.</figcaption>
+</figure>
+
+
+<figure>
 	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/arch/IMG_29712.jpg"></a>
 	<figcaption><a>Iowa State University, Ames, IA</a>.</figcaption>
 </figure>
