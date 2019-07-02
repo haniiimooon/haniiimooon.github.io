@@ -9,6 +9,11 @@ tag:
 - drawing
 comments: false
 ---
+<figure>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/draw/18.JPG"></a>
+	<figcaption><a>June 2019, technique: watercolor </a>.</figcaption>
+</figure>
+
 
 <figure>
 	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/draw/14.JPG"></a>

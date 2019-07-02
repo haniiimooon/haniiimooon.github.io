@@ -5,7 +5,7 @@ description:        "Hanimoon is a place where I share what I love to draw, or t
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-background:         'assets/img/draw/7.JPG'
+background:         'assets/img/draw/18.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://haniiimooon.github.io
