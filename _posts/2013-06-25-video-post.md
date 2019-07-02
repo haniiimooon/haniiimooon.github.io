@@ -7,7 +7,7 @@ tag:
 - Hanimoon
 - portfolio
 - drawing
-comments: false
+comments: true
 ---
 <figure>
 	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/draw/18.jpg"></a>
