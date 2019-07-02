@@ -10,7 +10,7 @@ tag:
 comments: false
 ---
 <figure>
-	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/draw/18.JPG"></a>
+	<a><img src="https://github.com/haniiimooon/haniiimooon.github.io/raw/master/assets/img/draw/18.jpg"></a>
 	<figcaption><a>June 2019, technique: watercolor </a>.</figcaption>
 </figure>
 
