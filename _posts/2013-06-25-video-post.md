@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "HaniMoon Drawing"
+title:  "Drawing"
 date:   2017-03-15
 excerpt: "A Digital Portfolio of My Drawing"
 tag:
